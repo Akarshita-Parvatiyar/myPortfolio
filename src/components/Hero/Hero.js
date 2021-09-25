@@ -12,9 +12,9 @@ export default function Hero() {
                 </div>
 
                 <div class="home__social">
-                    <a href="" class="home__social-icon"><i class='bx bxl-linkedin'></i></a>
+                    <a href="https://www.linkedin.com/in/akarshita-parvatiyar-1b819a19a/" class="home__social-icon"><i class='bx bxl-linkedin'></i></a>
                     <a href="" class="home__social-icon"><i class='bx bxl-behance' ></i></a>
-                    <a href="" class="home__social-icon"><i class='bx bxl-github' ></i></a>
+                    <a href="https://github.com/Akarshita-Parvatiyar" class="home__social-icon"><i class='bx bxl-github' ></i></a>
                 </div>
 
                 <div class="home__img">    
